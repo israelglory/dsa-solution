@@ -2,10 +2,7 @@
 I'll be updating everyday and pushing all data structure and algorithms solved with python. Welcome! Don't forget to star the repository.
 
 
-
 Star⭐ the repo if you like what you see😉.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/kheeng_splash?style=social)](https://twitter.com/kheeng_splash)
 
 ## ✨ Requirements
 
